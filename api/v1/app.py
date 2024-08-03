@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""
-The app for Air_BnB
-"""
+"""The app for Air_BnB"""
+
 
 from flask import Flask, jsonify
 from flask_cors import CORS
