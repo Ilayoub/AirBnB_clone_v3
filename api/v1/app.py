@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""The app for Air_BnB"""
+"""Create a flask app that starts an API"""
 
 from flask import app, Flask, make_response, jsonify, abort, Blueprint
 from models import storage
